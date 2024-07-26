@@ -1,7 +1,9 @@
 <?php
 
+namespace AMDarter;
+
 use PHPUnit\Framework\TestCase;
-use ColorHelpers\ColorHelpers;
+use AMDarter\ColorHelpers;
 
 class ColorHelpersTest extends TestCase
 {

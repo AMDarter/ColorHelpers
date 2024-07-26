@@ -1,6 +1,6 @@
 <?php
 
-namespace ColorHelpers;
+namespace AMDarter;
 
 class ColorHelpers
 {
